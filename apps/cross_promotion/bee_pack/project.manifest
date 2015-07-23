@@ -6,7 +6,10 @@
 
 	"assets" : {
 		"Promotion/cross_promotion.png" : {
-			"md5" : "..."
+			"md5" : "2"
+		}
+		"Promotion/cross_promotion.txt" : {
+			"md5" : "2"
 		}
 	},
     
