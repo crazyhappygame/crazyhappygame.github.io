@@ -1,7 +1,6 @@
 {
 	"packageUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/",
 	"remoteManifestUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/project.manifest",
-	"remoteVersionUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/project.manifest",
 	"version" : "1.0.0",
 	"engineVersion" : "3.0 beta",
 
