@@ -1,0 +1,18 @@
+{
+	"packageUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/christmas_onetouch_draw/",
+	"remoteManifestUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/christmas_onetouch_draw/project.manifest",
+	"version" : "1.0.1",
+	"engineVersion" : "3.0 beta",
+
+	"assets" : {
+		"Promotion/cross_promotion.png" : {
+			"md5" : "2"
+		},
+		"Promotion/cross_promotion.txt" : {
+			"md5" : "2"
+		}
+	},
+    
+    "searchPaths" : [
+    ]
+}
