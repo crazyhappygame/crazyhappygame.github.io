@@ -1,15 +1,15 @@
 {
 	"packageUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/",
 	"remoteManifestUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/project.manifest",
-	"version" : "1.0.2",
+	"version" : "1.0.3",
 	"engineVersion" : "3.0 beta",
 
 	"assets" : {
 		"Promotion/cross_promotion.png" : {
-			"md5" : "3"
+			"md5" : "4"
 		},
 		"Promotion/cross_promotion.txt" : {
-			"md5" : "3"
+			"md5" : "4"
 		}
 	},
     
