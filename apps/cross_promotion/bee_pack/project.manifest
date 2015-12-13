@@ -1,14 +1,14 @@
 {
 	"packageUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/",
 	"remoteManifestUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/project.manifest",
-"version" : "1.0.4",
+"version" : "1.0.5",
 	"engineVersion" : "3.0 beta",
 	"assets" : {
 		"Promotion/cross_promotion.png" : {
-"md5" : "5"
+"md5" : "6"
 		},
 		"Promotion/cross_promotion.txt" : {
-"md5" : "5"
+"md5" : "6"
 		}
 	},
    

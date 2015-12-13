@@ -1,15 +1,15 @@
 {
 	"packageUrl" : "http://www.goodsofttech.com/selfpromo/cocos/nemo/",
 	"remoteManifestUrl" : "http://www.goodsofttech.com/selfpromo/cocos/nemo/project.manifest",
-"version" : "1.0.4",
+"version" : "1.0.5",
 	"engineVersion" : "3.0 beta",
 
 	"assets" : {
 		"Promotion/cross_promotion.png" : {
-"md5" : "5"
+"md5" : "6"
 		},
 		"Promotion/cross_promotion.txt" : {
-"md5" : "5"
+"md5" : "6"
 		}
 	},
     
