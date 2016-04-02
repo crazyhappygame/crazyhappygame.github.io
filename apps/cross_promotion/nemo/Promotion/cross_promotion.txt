@@ -1,1 +1,1 @@
-market://details?id=com.crazyhappygame.catsandmicejigsawpuzzlesforkids
+market://details?id=com.crazyhappygame.coloringpagespuzzleforkids
