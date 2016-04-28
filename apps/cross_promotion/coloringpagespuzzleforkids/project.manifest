@@ -2,6 +2,9 @@
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/coloringpagespuzzleforkids/", 
     "searchPaths": [], 
     "assets": {
+        "Promotion/cross_promotion_win.txt": {
+            "md5": "8b99e948bd1502da5b422443bd5cc401"
+        }, 
         "Promotion/cross_promotion.txt": {
             "md5": "19380c5d22c365a1806b7ccb227fe88c"
         }, 
@@ -9,7 +12,7 @@
             "md5": "8feadfd5e448a7ddf48a65d524d691ca"
         }
     }, 
-    "version": "1.0.6", 
+    "version": "1.0.7", 
     "engineVersion": "3.0 beta", 
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/coloringpagespuzzleforkids/project.manifest"
 }
