@@ -1,2 +1,2 @@
-g:\subrepos\repos\crazyhappygame.github.io\apps\cross_promotion\jigsaw_puzzle/Images\abc\a.jpg
-g:\subrepos\repos\crazyhappygame.github.io\apps\cross_promotion\jigsaw_puzzle/Images\abc\b.jpg
+Images/abc/a.jpg
+Images/abc/b.jpg
