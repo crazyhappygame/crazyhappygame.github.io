@@ -1,15 +1,18 @@
 {
-    "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/", 
-    "searchPaths": [], 
     "assets": {
-        "Promotion/cross_promotion.txt": {
-            "md5": "459fa9e373b4440663cb01d64bf67587"
-        }, 
         "Promotion/cross_promotion.png": {
             "md5": "c061e1cd686d3847baa49a46c8826a18"
+        },
+        "Promotion/cross_promotion.txt": {
+            "md5": "459fa9e373b4440663cb01d64bf67587"
+        },
+        "Promotion/cross_promotion_win.txt": {
+            "md5": "8b99e948bd1502da5b422443bd5cc401"
         }
-    }, 
-    "version": "1.0.7", 
-    "engineVersion": "3.0 beta", 
-    "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/project.manifest"
+    },
+    "engineVersion": "3.0 beta",
+    "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/",
+    "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/project.manifest",
+    "searchPaths": [],
+    "version": "1.0.8"
 }
