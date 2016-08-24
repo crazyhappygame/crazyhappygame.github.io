@@ -1,24 +1,24 @@
 {
-    "searchPaths": [],
-    "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/jigsaw_puzzle/",
     "assets": {
-        "downloaded_images.txt": {
-            "md5": "3c15b20569ab5d5f9c83fe62cadcf7ed"
-        },
-        "Promotion/cross_promotion_win.txt": {
-            "md5": "8b99e948bd1502da5b422443bd5cc401"
-        },
-        "Promotion/cross_promotion.txt": {
-            "md5": "459fa9e373b4440663cb01d64bf67587"
+        "ImagesSmall/01_autumn.jpg": {
+            "md5": "df17eea9d904c7d671a8f94b5d18dc75"
         },
         "Promotion/cross_promotion.png": {
             "md5": "31ea1a7abe93097d48e48b2188d7fb85"
         },
-        "ImagesSmall/abc.jpg": {
-            "md5": "f6a8dcc6acf94207fe279095ea2a5454"
+        "Promotion/cross_promotion.txt": {
+            "md5": "459fa9e373b4440663cb01d64bf67587"
+        },
+        "Promotion/cross_promotion_win.txt": {
+            "md5": "8b99e948bd1502da5b422443bd5cc401"
+        },
+        "downloaded_images.txt": {
+            "md5": "d64eef76f6e9ce3edfd09c9270037059"
         }
     },
-    "version": "1.0.16",
     "engineVersion": "3.0 beta",
-    "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/jigsaw_puzzle/project.manifest"
+    "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/jigsaw_puzzle/",
+    "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/jigsaw_puzzle/project.manifest",
+    "searchPaths": [],
+    "version": "1.0.1"
 }
