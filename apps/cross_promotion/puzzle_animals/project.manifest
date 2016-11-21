@@ -13,12 +13,12 @@
             "md5": "8b99e948bd1502da5b422443bd5cc401"
         },
         "downloaded_images.txt": {
-            "md5": "154f97bc148064cb0382df094ea18dca"
+            "md5": "154f97bc148064cb0382df094ea18dcb"
         }
     },
     "engineVersion": "3.0 beta",
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/",
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/project.manifest",
     "searchPaths": [],
-    "version": "1.0.12"
+    "version": "1.0.11"
 }
