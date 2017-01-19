@@ -1,24 +1,42 @@
 {
     "assets": {
+        "ImagesSmall/06_figures.jpg": {
+            "md5": "63774dff446316422f1316dd5fc5a6f6"
+        },
+        "ImagesSmall/09_horse_2.jpg": {
+            "md5": "44bd920f74e977327dde2f6043cfc7e6"
+        },
         "ImagesSmall/123.jpg": {
             "md5": "e24a8ccc347e4a53d41108e6d460a745"
         },
+        "ImagesSmall/13_images.jpg": {
+            "md5": "dbc41ccaa29e3757b7b4e3d8f688144f"
+        },
+        "ImagesSmall/15_toys_1.jpg": {
+            "md5": "db92a1dc7865d11734e35eaf09c171e7"
+        },
+        "ImagesSmall/16_toys_2.jpg": {
+            "md5": "c324893bc9315b7a4d284dfddf66f4ce"
+        },
+        "ImagesSmall/17_toys_bears.jpg": {
+            "md5": "b06f202b52b3772e8aecf75615b20f0e"
+        },
         "Promotion/cross_promotion.png": {
-            "md5": "31ea1a7abe93097d48e48b2188d7fb85"
+            "md5": "983a77238773522d641e855e58ce8268"
         },
         "Promotion/cross_promotion.txt": {
-            "md5": "459fa9e373b4440663cb01d64bf67587"
+            "md5": "cad8fc059261e6f3337fe41d6d9a88ea"
         },
         "Promotion/cross_promotion_win.txt": {
-            "md5": "8b99e948bd1502da5b422443bd5cc401"
+            "md5": "2d16d5e2e32173e7abd80d1ad7a364d7"
         },
         "downloaded_images.txt": {
-            "md5": "154f97bc148064cb0382df094ea18dcb"
+            "md5": "368cd8da4c97888414dceb3e618972ae"
         }
     },
     "engineVersion": "3.0 beta",
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/",
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/project.manifest",
     "searchPaths": [],
-    "version": "1.0.14"
+    "version": "1.0.15"
 }
