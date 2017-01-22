@@ -6,10 +6,10 @@
             "md5": "459fa9e373b4440663cb01d64bf67587"
         }, 
         "Promotion/cross_promotion.png": {
-            "md5": "c061e1cd686d3847baa49a46c8826a18"
+            "md5": "c061e1cd686d3847baa49a46c8826a11"
         }
     }, 
-    "version": "1.0.7", 
+    "version": "1.0.8", 
     "engineVersion": "3.0 beta", 
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/planet_onetouch_draw/project.manifest"
 }
