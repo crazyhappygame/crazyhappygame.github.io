@@ -22,7 +22,7 @@
             "md5": "b06f202b52b3772e8aecf75615b20f0e"
         },
         "Promotion/cross_promotion.png": {
-            "md5": "983a77238773522d641e855e58ce8268"
+            "md5": "807945e2644049a97f8d28d752c30847"
         },
         "Promotion/cross_promotion.txt": {
             "md5": "cad8fc059261e6f3337fe41d6d9a88ea"
@@ -31,12 +31,12 @@
             "md5": "2d16d5e2e32173e7abd80d1ad7a364d7"
         },
         "downloaded_images.txt": {
-            "md5": "368cd8da4c97888414dceb3e618972ae"
+            "md5": "f6c4bcd308bf3858b0535a5331becd8f"
         }
     },
     "engineVersion": "3.0 beta",
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/",
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/project.manifest",
     "searchPaths": [],
-    "version": "1.0.15"
+    "version": "1.0.16"
 }

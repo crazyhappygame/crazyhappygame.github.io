@@ -1,15 +1,15 @@
 {
-    "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/planet_onetouch_draw/", 
-    "searchPaths": [], 
     "assets": {
-        "Promotion/cross_promotion.txt": {
-            "md5": "459fa9e373b4440663cb01d64bf67587"
-        }, 
         "Promotion/cross_promotion.png": {
-            "md5": "c061e1cd686d3847baa49a46c8826a11"
+            "md5": "285e9a58bd7a3df8fd16f6629dee8ec4"
+        },
+        "Promotion/cross_promotion.txt": {
+            "md5": "cad8fc059261e6f3337fe41d6d9a88ea"
         }
-    }, 
-    "version": "1.0.8", 
-    "engineVersion": "3.0 beta", 
-    "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/planet_onetouch_draw/project.manifest"
+    },
+    "engineVersion": "3.0 beta",
+    "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/planet_onetouch_draw/",
+    "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/planet_onetouch_draw/project.manifest",
+    "searchPaths": [],
+    "version": "1.0.9"
 }

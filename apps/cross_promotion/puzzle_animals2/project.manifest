@@ -1,15 +1,15 @@
 {
-    "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals2/", 
-    "searchPaths": [], 
     "assets": {
-        "Promotion/cross_promotion.txt": {
-            "md5": "459fa9e373b4440663cb01d64bf67587"
-        }, 
         "Promotion/cross_promotion.png": {
-            "md5": "31ea1a7abe93097d48e48b2188d7fb85"
+            "md5": "807945e2644049a97f8d28d752c30847"
+        },
+        "Promotion/cross_promotion.txt": {
+            "md5": "cad8fc059261e6f3337fe41d6d9a88ea"
         }
-    }, 
-    "version": "1.0.7", 
-    "engineVersion": "3.0 beta", 
-    "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals2/project.manifest"
+    },
+    "engineVersion": "3.0 beta",
+    "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals2/",
+    "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals2/project.manifest",
+    "searchPaths": [],
+    "version": "1.0.8"
 }
