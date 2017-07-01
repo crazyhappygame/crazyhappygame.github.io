@@ -1,15 +1,18 @@
 {
     "assets": {
         "Promotion/cross_promotion.png": {
-            "md5": "285e9a58bd7a3df8fd16f6629dee8ec4"
+            "md5": "93aa6023f47c9f6dba0bf525a13f0263"
         },
         "Promotion/cross_promotion.txt": {
-            "md5": "cad8fc059261e6f3337fe41d6d9a88ea"
+            "md5": "5af6cbc2291094081c428129408b03e6"
+        },
+        "Promotion/cross_promotion_win.txt": {
+            "md5": "764d12601346f107333e10f14f2f9644"
         }
     },
     "engineVersion": "3.0 beta",
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/smart_onetouch_draw/",
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/smart_onetouch_draw/project.manifest",
     "searchPaths": [],
-    "version": "1.0.8"
+    "version": "1.0.9"
 }

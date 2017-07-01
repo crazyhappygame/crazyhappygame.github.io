@@ -1,1 +1,1 @@
-market://details?id=com.crazyhappygame.jigsawpuzzle
+market://details?id=com.crazyhappygame.mahjong
