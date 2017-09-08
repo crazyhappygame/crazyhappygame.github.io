@@ -1,7 +1,7 @@
 {
     "assets": {
         "Promotion/cross_promotion.png": {
-            "md5": "df25363f651266b39870879e124d393e"
+            "md5": "d31fedf2c073faac4bc9058e7af3f1c2"
         },
         "Promotion/cross_promotion.txt": {
             "md5": "5af6cbc2291094081c428129408b03e6"
@@ -14,5 +14,5 @@
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/jigsaw_puzzle/",
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/jigsaw_puzzle/project.manifest",
     "searchPaths": [],
-    "version": "1.0.6"
+    "version": "1.0.7"
 }
