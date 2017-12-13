@@ -38,5 +38,8 @@
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/",
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/project.manifest",
     "searchPaths": [],
-    "version": "1.0.19"
+    "version": "1.0.20",
+    "configuration":{
+        "puzzleAnimalsShowHidden": true
+    }
 }
