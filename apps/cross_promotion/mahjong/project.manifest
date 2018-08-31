@@ -1,18 +1,15 @@
 {
     "assets": {
         "Promotion/cross_promotion.png": {
-            "md5": "174a5f94481d1f224a5461dd205761e7"
+            "md5": "e5e80c889a1d4271a0acdd1d5a363e07"
         },
         "Promotion/cross_promotion.txt": {
-            "md5": "52e28138a480eac1181fdc79d039df30"
-        },
-        "Promotion/cross_promotion_win.txt": {
-            "md5": "0b8eb5ea435a24975f7fb693f4526c98"
+            "md5": "6a44b47091481fdb77532de053ee6bf5"
         }
     },
     "engineVersion": "3.0 beta",
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/mahjong/",
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/mahjong/project.manifest",
     "searchPaths": [],
-    "version": "1.0.5"
+    "version": "1.0.6"
 }
