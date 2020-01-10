@@ -1,7 +1,7 @@
 {
     "assets": {
         "Promotion/cross_promotion.png": {
-            "md5": "d31fedf2c073faac4bc9058e7af3f1c2"
+            "md5": "4b93fc0e48450e87ecebd468eec0e818"
         },
         "Promotion/cross_promotion.txt": {
             "md5": "5af6cbc2291094081c428129408b03e6"
@@ -14,5 +14,5 @@
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/dottodot/",
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/dottodot/project.manifest",
     "searchPaths": [],
-    "version": "1.0.1"
+    "version": "1.0.2"
 }

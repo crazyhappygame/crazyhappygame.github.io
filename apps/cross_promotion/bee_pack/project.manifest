@@ -1,7 +1,7 @@
 {
     "assets": {
         "Promotion/cross_promotion.png": {
-            "md5": "8e24d6de52a2ef578ed500b1340b86d7"
+            "md5": "9c8727fb7eab4b45b7594003f4905fdc"
         },
         "Promotion/cross_promotion.txt": {
             "md5": "6a44b47091481fdb77532de053ee6bf5"
@@ -11,5 +11,5 @@
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/",
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/bee_pack/project.manifest",
     "searchPaths": [],
-    "version": "1.0.14"
+    "version": "1.0.15"
 }
