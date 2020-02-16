@@ -41,7 +41,7 @@ template2 = '''   {% for game in games %}
 
 def get_stores(stores):
     def get_store(store, col_class):
-        return f"""<div class = "{col_class} portfolio-item" >
+        return f"""<div class="portfolio-caption">
                <a href = "{store["link"]}" >
                     <img src = "{store["badge"]}" class = "img-responsive center-block" alt = "" >
                 </a >
@@ -55,17 +55,17 @@ def get_stores(stores):
 
 def get_template_item(game):
     return f"""
-                <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item">
-                    <div>
-                        <img src="img/games/{game["image"]}" class="img-responsive" alt="">
-                    </div>
-                    <div class="portfolio-caption">
-                        <div class = "row" >
-                        {get_stores(game["stores"])}
-                        </div>
-                        <h4>{game["name"]}</h4>
-                    </div>
-                </div>"""
+        <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item">
+            <a href = "{game["stores"][0]["link"]}" >
+                <div class="portfolio-caption">
+                    <h4>{game["name"]}</h4>
+                </div>
+                <div class="portfolio-caption">
+                    <img src="img/games/{game["image"]}" class="img-responsive" alt="">
+                </div>
+                {get_stores(game["stores"])}
+            </a>
+        </div>"""
 
 
 def get_template_items(games):
@@ -96,6 +96,27 @@ def getMsStore(id):
 
 games = [
     {
+        "name": "DotPoly",
+        "image": "dotpoly.png",
+        "stores": [getGoogleStore("dotpoly")]
+    },
+    {
+        "name": "DotToDot",
+        "image": "dottodot.png",
+        "stores": [getGoogleStore("dottodot")]
+    },
+    {
+        "name": "Mahjong",
+        "image": "mahjong.png",
+        "stores": [getGoogleStore("mahjong")]
+    },
+    {
+        "name": "Planet Draw",
+        "image": "planet_draw.png",
+        "stores": [getGoogleStore("planetdraw")]
+    },
+
+    {
         "name": "Jigsaw Puzzle",
         "image": "jigsaw_puzzle.png",
         "stores": [getGoogleStore("jigsawpuzzle"), getMsStore("9nblggh4tpj1")]
@@ -111,25 +132,20 @@ games = [
         "stores": [getGoogleStore("letterjigsawpuzzlesforkids"), getMsStore("9nblggh4nxmn")]
     },
     {
-        "name": "Puzzle/Memo/Flower",
+        "name": "Puzzle/Memo",
         "image": "bee_pack.png",
         "stores": [getGoogleStore("kidspuzzlebeepack"), getMsStore("9nblggh3vrtd")]
-    },
-    {
-        "name": "Planet Draw",
-        "image": "planet_draw.png",
-        "stores": [getGoogleStore("planetdraw")]
     },
     {
         "name": "Christmas Tree",
         "image": "christmas_tree.png",
         "stores": [getGoogleStore("christmastree")]
     },
-    {
-        "name": "Smart Draw",
-        "image": "smart_draw.png",
-        "stores": [getGoogleStore("smartdraw")]
-    },
+    # {
+    #     "name": "Smart Draw",
+    #     "image": "smart_draw.png",
+    #     "stores": [getGoogleStore("smartdraw")]
+    # },
     {
         "name": "Kids Puzzle Bee",
         "image": "bee.png",
