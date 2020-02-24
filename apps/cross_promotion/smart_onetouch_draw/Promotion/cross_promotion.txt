@@ -1,1 +1,1 @@
-market://details?id=com.crazyhappygame.dottodot
+market://details?id=com.crazyhappygame.dotpoly
