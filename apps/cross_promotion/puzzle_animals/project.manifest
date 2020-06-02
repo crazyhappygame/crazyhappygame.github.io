@@ -32,11 +32,12 @@
         }
     },
     "configuration": {
-        "puzzleAnimalsShowHidden": true
+        "puzzleAnimalsShowHidden": true,
+        "disabled_admob_banner_version": "2020.05.29"
     },
     "engineVersion": "3.0 beta",
     "packageUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/",
     "remoteManifestUrl": "http://crazyhappygame.github.io/apps/cross_promotion/puzzle_animals/project.manifest",
     "searchPaths": [],
-    "version": "1.0.29"
+    "version": "1.0.30"
 }
