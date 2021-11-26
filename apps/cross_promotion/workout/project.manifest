@@ -1,0 +1,15 @@
+{
+	"packageUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/workout/",
+	"remoteManifestUrl" : "http://crazyhappygame.github.io/apps/cross_promotion/workout/project.manifest",
+	"version" : "1.0.1",
+	"engineVersion" : "3.0 beta",
+
+    "searchPaths" : [
+    ],
+
+	"assets": {
+        "workouts.json": {
+            "md5": "563adec527c78ac38255941335d1c365"
+        }
+	}
+}

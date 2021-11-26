@@ -1,0 +1,43 @@
+{
+    "data": {
+        "cereal_class_version": 0,
+        "workouts": [
+            {
+                "cereal_class_version": 0,
+                "name": "workout1",
+                "items": [
+                    {
+                        "cereal_class_version": 0,
+                        "name": "item1",
+                        "seconds": {
+                            "count": 5
+                        }
+                    },
+                    {
+                        "name": "item2",
+                        "seconds": {
+                            "count": 5
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "workout2",
+                "items": [
+                    {
+                        "name": "item21",
+                        "seconds": {
+                            "count": 5
+                        }
+                    },
+                    {
+                        "name": "item22",
+                        "seconds": {
+                            "count": 5
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
